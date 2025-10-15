@@ -1,0 +1,59 @@
+{
+  "name": "Guy Mordechai Azrad",
+  "profile": "2nd year computer science student at The Open University, seeking a position as a student software engineering intern.",
+  "contact": {
+    "phone": "050-3473590",
+    "email": "azradguy123@gmail.com"
+  },
+  "languages": [
+    {"language": "Hebrew", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Fluent"}
+  ],
+  "skills": [
+    "Autodidact - extraordinary self-learner",
+    "Great social skills",
+    "Team-player",
+    "Function well under pressure",
+    "Proficient in problem solving",
+    "Articulate in English and Hebrew"
+  ],
+  "programming_languages": [
+    "C",
+    "#C",
+    "Java",
+    "Python",
+    "JavaScript",
+    "HTML/CSS"
+  ],
+   "Technologies": [
+    "React",
+    "Node.js",
+    "Git"
+  ],
+  "education": [
+    {
+      "institution": "The Open University",
+      "degree": "B.Sc. Computer Science (2nd year student)",
+      "start_year": 2022,
+      "end_year": 2025,
+      "GPA": 81
+    },
+    {
+      "institution": "ORT Motzkin",
+      "degree": "High school diploma",
+      "major": "Computer science, app development (Android), Physics",
+      "start_year": 2018,
+      "end_year": 2020
+    }
+  ],
+  "military_service": {
+    "service_years": "2021-2023",
+    "role": "Commander in the IDF Airforce",
+    "responsibility": "Head of Security at the Technological school of the Air Force in Beer Sheva"
+  },
+  "availability": "Seeking part-time employment, 3 days/week",
+  "online_presence": {
+    "LinkedIn": "",
+    "GitHub": ""
+  }
+}
